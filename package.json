@@ -1,0 +1,14 @@
+{
+  "name": "assessmentqa",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "Gabriela Rocha",
+  "license": "ISC",
+  "description": "Assessment for the Software Developer in Test at QA Learning Platform",
+  "devDependencies": {
+    "@playwright/test": "^1.45.3",
+    "@types/node": "^22.0.0"
+  }
+}
